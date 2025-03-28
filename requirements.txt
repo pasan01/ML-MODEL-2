@@ -1,0 +1,5 @@
+python-docx
+pdfplumber
+scikit_learn
+streamlit
+nltk
